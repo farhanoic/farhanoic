@@ -124,9 +124,13 @@ I'm a passionate developer and content creator who loves building innovative sol
     </div>
     
     <!-- Snake Animation -->
-    <div style="padding-top: 20px; border-top: 1px solid #444441;">
-      <h3 style="color: #818cf8; margin: 0 0 15px 0; font-size: 1.1rem; text-align: center;">🐍 Snake Game Animation</h3>
-      <img src="https://github.com/farhanoic/farhanoic/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" style="border-radius: 10px; width: 100%; max-width: 900px;" />
+    <div style="padding-top: 20px; border-top: 1px solid #444441; text-align: center;">
+      <h3 style="color: #818cf8; margin: 0 0 15px 0; font-size: 1.1rem;">🐍 Snake Game Animation</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanoic/farhanoic/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanoic/farhanoic/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/farhanoic/farhanoic/output/github-contribution-grid-snake.svg">
+      </picture>
     </div>
   </div>
 </div>
