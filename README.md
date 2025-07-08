@@ -97,6 +97,6 @@
 
 <div align="center">
   <div style="background: #2c2b25; padding: 25px; border-radius: 20px; margin: 20px 0; border: 1px solid #444441; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
-    <h3 style="color: #818cf8; margin: 0; font-size: 1.2rem; font-weight: 500; letter-spacing: 0.5px;">💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+    <h3 style="color: #818cf8; margin: 0; font-size: 1.2rem; font-weight: 500; letter-spacing: 0.5px;"> "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
   </div>
 </div>
