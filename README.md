@@ -57,32 +57,8 @@
 <!-- GitHub Statistics Section -->
 <div style="flex: 1;">
 
-## 📊 GitHub Statistics
 
-<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=farhanoic&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=2c2b25&title_color=818cf8&icon_color=818cf8&text_color=e2e8f0&border_radius=20"/>
-</div>
-
-<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanoic&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=2c2b25&title_color=818cf8&text_color=e2e8f0&border_radius=20"/>
-</div>
-
-<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanoic&theme=dark&hide_border=true&background=2c2b25&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=818cf8&sideLabels=818cf8&dates=d1d5db&border_radius=20"/>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
----
-
-<div style="background: #1e1b1b; padding: 30px; border-radius: 25px; margin: 30px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.3); border: 1px solid #3c3633;">
-
-
-### 🐍 Snake Game Animation
+### Recently Contributed
 
 <div align="center">
   
