@@ -119,20 +119,18 @@ I'm a passionate developer and content creator who loves building innovative sol
 <div align="center">
   <div style="background: #2c2b25; padding: 30px; border-radius: 20px; border: 1px solid #444441; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
     <!-- Custom Full Year Contribution Grid -->
-    <div style="margin-bottom: 30px;">
-      <img src="./contribution-grid.svg" alt="Full Year GitHub Contribution Grid" style="width: 100%; max-width: 1000px; border-radius: 10px;" />
-    </div>
-    
-    <!-- Snake Animation -->
-    <div style="padding-top: 20px; border-top: 1px solid #444441; text-align: center;">
-      <h3 style="color: #818cf8; margin: 0 0 15px 0; font-size: 1.1rem;">🐍 Snake Game Animation</h3>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanoic/farhanoic/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanoic/farhanoic/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/farhanoic/farhanoic/output/github-contribution-grid-snake.svg">
-      </picture>
-    </div>
+    <img src="./contribution-grid.svg" alt="Full Year GitHub Contribution Grid" style="width: 100%; max-width: 1000px; border-radius: 10px;" />
   </div>
+</div>
+
+---
+
+### 🐍 Snake Game Animation
+
+<div align="center">
+  
+![Snake eating my contributions](https://raw.githubusercontent.com/farhanoic/farhanoic/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 </div>
