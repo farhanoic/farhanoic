@@ -117,20 +117,17 @@ I'm a passionate developer and content creator who loves building innovative sol
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <!-- Full Year Contribution Grid with Labels -->
-  <div style="background: #2c2b25; padding: 25px; border-radius: 20px; border: 1px solid #444441; box-shadow: 0 8px 20px rgba(0,0,0,0.2); margin-bottom: 20px;">
-    <h3 style="color: #818cf8; margin: 0 0 20px 0; font-size: 1.1rem;">📅 Full Year Contributions</h3>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanoic&theme=github-compact&bg_color=2c2b25&color=e2e8f0&line=818cf8&point=818cf8&area=false&hide_border=true&custom_title=&height=200" alt="Full Year Contribution Grid" style="border-radius: 10px; width: 100%; max-width: 1100px;" />
-  </div>
-  
-  <!-- Snake Animation -->
-  <div style="background: #2c2b25; padding: 20px; border-radius: 20px; border: 1px solid #444441; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-    <h3 style="color: #818cf8; margin: 0 0 15px 0; font-size: 1.1rem;">🐍 Snake Game Animation</h3>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/farhanoic/farhanoic/blob/output/github-contribution-grid-snake-full.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/farhanoic/farhanoic/blob/output/github-contribution-grid-snake-full.svg" />
-      <img alt="Snake eating full year contributions" src="https://github.com/farhanoic/farhanoic/blob/output/github-contribution-grid-snake-full.svg" style="border-radius: 10px; width: 100%; max-width: 1100px;" />
-    </picture>
+  <div style="background: #2c2b25; padding: 30px; border-radius: 20px; border: 1px solid #444441; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
+    <!-- Custom Full Year Contribution Grid -->
+    <div style="margin-bottom: 30px;">
+      <img src="./contribution-grid.svg" alt="Full Year GitHub Contribution Grid" style="width: 100%; max-width: 1000px; border-radius: 10px;" />
+    </div>
+    
+    <!-- Snake Animation -->
+    <div style="padding-top: 20px; border-top: 1px solid #444441;">
+      <h3 style="color: #818cf8; margin: 0 0 15px 0; font-size: 1.1rem; text-align: center;">🐍 Snake Game Animation</h3>
+      <img src="https://github.com/farhanoic/farhanoic/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" style="border-radius: 10px; width: 100%; max-width: 900px;" />
+    </div>
   </div>
 </div>
 
