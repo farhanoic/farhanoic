@@ -13,26 +13,6 @@
 
 </div>
 
-<div style="background: #1e1b1b; padding: 25px; border-radius: 25px; margin: 30px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.3); border: 1px solid #3c3633;">
-
-## 🚀 About Me
-
-<div align="center" style="color: #e2e8f0;">
-
-**Developer** • **Content Creator** • **Storyteller**
-
-<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441; display: inline-block;">
-
-🔭 **Building** innovative solutions  
-🎥 **Creating** engaging content  
-🌱 **Learning** cutting-edge tech  
-💬 **Contact:** farhanazhar.tlp@gmail.com
-
-</div>
-
-</div>
-
-</div>
 
 <div style="background: #1e1b1b; padding: 30px; border-radius: 25px; margin: 30px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.3); border: 1px solid #3c3633;">
 
