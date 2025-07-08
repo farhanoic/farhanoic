@@ -13,22 +13,20 @@
 
 </div>
 
-<div style="background: #1e1b1b; padding: 30px; border-radius: 25px; margin: 30px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.3); border: 1px solid #3c3633;">
+<div style="background: #1e1b1b; padding: 25px; border-radius: 25px; margin: 30px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.3); border: 1px solid #3c3633;">
 
 ## 🚀 About Me
 
-<div style="color: #e2e8f0; line-height: 1.8; font-size: 1.1rem;">
+<div align="center" style="color: #e2e8f0;">
 
-I'm a passionate developer and content creator who loves building innovative solutions and creating engaging digital experiences. Currently focused on modern web technologies, video production, and brand storytelling.
+**Developer** • **Content Creator** • **Storyteller**
 
-<div style="background: #2c2b25; padding: 20px; border-radius: 15px; margin: 20px 0; border: 1px solid #444441;">
+<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441; display: inline-block;">
 
-- 🔭 I'm currently working on **exciting development projects**
-- 🎥 Creating **engaging video content** and tutorials
-- 🌱 I'm currently learning **new technologies and content strategies**
-- 👯 I'm looking to collaborate on **open source projects and creative content**
-- 💬 Ask me about **development, content creation, or video production**
-- 📫 How to reach me: **farhanazhar.tlp@gmail.com**
+🔭 **Building** innovative solutions  
+🎥 **Creating** engaging content  
+🌱 **Learning** cutting-edge tech  
+💬 **Contact:** farhanazhar.tlp@gmail.com
 
 </div>
 
