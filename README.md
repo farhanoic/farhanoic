@@ -16,11 +16,14 @@
 
 <div style="background: #1e1b1b; padding: 30px; border-radius: 25px; margin: 30px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.3); border: 1px solid #3c3633;">
 
+<div style="display: flex; gap: 30px; align-items: flex-start;">
+
+<!-- Technologies & Tools Section -->
+<div style="flex: 1;">
+
 ## 🛠️ Technologies & Tools
 
-<div align="center">
-
-<div style="background: #2c2b25; padding: 20px; border-radius: 20px; margin: 20px 0; border: 1px solid #444441;">
+<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=2c2b25&color=818cf8)
@@ -30,32 +33,20 @@
 
 </div>
 
-<div style="background: #2c2b25; padding: 20px; border-radius: 20px; margin: 20px 0; border: 1px solid #444441;">
+<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=2c2b25&color=818cf8)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=2c2b25&color=818cf8)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white&labelColor=2c2b25&color=818cf8)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=2c2b25&color=818cf8)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=2c2b25&color=818cf8)
 
 </div>
 
-<div style="background: #2c2b25; padding: 20px; border-radius: 20px; margin: 20px 0; border: 1px solid #444441;">
+<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
 
-### Backend
+### Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=2c2b25&color=818cf8)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=2c2b25&color=818cf8)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white&labelColor=2c2b25&color=818cf8)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white&labelColor=2c2b25&color=818cf8)
-
-</div>
-
-<div style="background: #2c2b25; padding: 20px; border-radius: 20px; margin: 20px 0; border: 1px solid #444441;">
-
-### Database & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=2c2b25&color=818cf8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=2c2b25&color=818cf8)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=2c2b25&color=818cf8)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2c2b25&color=818cf8)
 
@@ -63,27 +54,25 @@
 
 </div>
 
-</div>
-
----
-
-<div style="background: #1e1b1b; padding: 30px; border-radius: 25px; margin: 30px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.3); border: 1px solid #3c3633;">
+<!-- GitHub Statistics Section -->
+<div style="flex: 1;">
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <div style="background: #2c2b25; padding: 20px; border-radius: 20px; margin: 15px; border: 1px solid #444441; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhanoic&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=2c2b25&title_color=818cf8&icon_color=818cf8&text_color=e2e8f0&border_radius=20"/>
-  </div>
-  <div style="background: #2c2b25; padding: 20px; border-radius: 20px; margin: 15px; border: 1px solid #444441; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanoic&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=2c2b25&title_color=818cf8&text_color=e2e8f0&border_radius=20"/>
-  </div>
+<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=farhanoic&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=2c2b25&title_color=818cf8&icon_color=818cf8&text_color=e2e8f0&border_radius=20"/>
 </div>
 
-<div align="center">
-  <div style="background: #2c2b25; padding: 20px; border-radius: 20px; margin: 15px; border: 1px solid #444441; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanoic&theme=dark&hide_border=true&background=2c2b25&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=818cf8&sideLabels=818cf8&dates=d1d5db&border_radius=20"/>
-  </div>
+<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanoic&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=2c2b25&title_color=818cf8&text_color=e2e8f0&border_radius=20"/>
+</div>
+
+<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanoic&theme=dark&hide_border=true&background=2c2b25&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=818cf8&sideLabels=818cf8&dates=d1d5db&border_radius=20"/>
+</div>
+
+</div>
+
 </div>
 
 </div>
