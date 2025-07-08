@@ -118,7 +118,7 @@ I'm a passionate developer and content creator who loves building innovative sol
 
 <div align="center">
   <div style="background: #2c2b25; padding: 20px; border-radius: 20px; border: 1px solid #444441; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-    <img src="https://github.com/farhanoic/farhanoic/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" style="border-radius: 15px;" />
+    <img src="https://github.com/farhanoic/farhanoic/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation - Full Year" style="border-radius: 15px; width: 100%; max-width: 1200px;" />
   </div>
 </div>
 
