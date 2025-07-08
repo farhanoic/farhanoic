@@ -118,14 +118,7 @@ I'm a passionate developer and content creator who loves building innovative sol
 
 <div align="center">
   <div style="background: #2c2b25; padding: 20px; border-radius: 20px; border: 1px solid #444441; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-    <img src="https://github.com/farhanoic/farhanoic/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation - Full Year" style="border-radius: 15px; width: 100%; max-width: 1200px;" />
-  </div>
-</div>
-
-<div align="center">
-  <div style="background: #2c2b25; padding: 20px; border-radius: 20px; border: 1px solid #444441; box-shadow: 0 8px 20px rgba(0,0,0,0.2); margin-top: 20px;">
-    <h3 style="color: #818cf8; margin-bottom: 15px;">📅 Full Year Contribution Calendar</h3>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanoic&theme=github-compact&bg_color=2c2b25&color=e2e8f0&line=818cf8&point=818cf8&area=true&hide_border=true" alt="Full Year Contribution Graph" style="border-radius: 15px; width: 100%; max-width: 1200px;" />
+    <img src="https://github.com/farhanoic/farhanoic/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake eating full year contributions" style="border-radius: 15px; width: 100%; max-width: 1200px;" />
   </div>
 </div>
 
