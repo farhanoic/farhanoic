@@ -24,42 +24,42 @@
 ## 🛠️ Technologies & Tools
 
 ### 📊 LANGUAGES
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-404040?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-404040?style=flat&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Expert-404040?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-Expert-404040?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Expert-404040?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Expert-404040?style=flat&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-404040?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-404040?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-404040?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-404040?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-404040?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-404040?style=flat&logo=mysql&logoColor=white)
 
 ### 🚀 FRAMEWORKS
-![Next.js](https://img.shields.io/badge/Next.js-Expert-404040?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-Expert-404040?style=flat&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Expert-404040?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Expert-404040?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-404040?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-404040?style=flat&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-404040?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-404040?style=flat&logo=nodedotjs&logoColor=white)
 
 ### 🎯 UI LIBRARIES & COMPONENTS
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-Expert-404040?style=flat&logo=shadcnui&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-Expert-404040?style=flat&logo=radixui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-Expert-404040?style=flat&logo=framer&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-Expert-404040?style=flat&logo=recharts&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-404040?style=flat&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-404040?style=flat&logo=radixui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-404040?style=flat&logo=framer&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-404040?style=flat&logo=recharts&logoColor=white)
 
 ### 🛠️ DEVELOPMENT TOOLS & BUILD
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-404040?style=flat&logo=typescript&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-Expert-404040?style=flat&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-Expert-404040?style=flat&logo=prettier&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-Expert-404040?style=flat&logo=webpack&logoColor=white)
-![TanStack React Query](https://img.shields.io/badge/TanStack_React_Query-Expert-404040?style=flat&logo=reactquery&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-Expert-404040?style=flat&logo=reacthookform&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-404040?style=flat&logo=typescript&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-404040?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-404040?style=flat&logo=prettier&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-404040?style=flat&logo=webpack&logoColor=white)
+![TanStack React Query](https://img.shields.io/badge/TanStack_React_Query-404040?style=flat&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-404040?style=flat&logo=reacthookform&logoColor=white)
 
 ### 🗄️ DATABASE & BACKEND
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-404040?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-Expert-404040?style=flat&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Intermediate-808080?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-404040?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-404040?style=flat&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-404040?style=flat&logo=redis&logoColor=white)
 
 ### 🌐 SERVICES & HOSTING
-![Google APIs](https://img.shields.io/badge/Google_APIs-Expert-404040?style=flat&logo=google&logoColor=white)
-![Vercel Analytics](https://img.shields.io/badge/Vercel_Analytics-Expert-404040?style=flat&logo=vercel&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-Expert-404040?style=flat&logo=vercel&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google_APIs-404040?style=flat&logo=google&logoColor=white)
+![Vercel Analytics](https://img.shields.io/badge/Vercel_Analytics-404040?style=flat&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-404040?style=flat&logo=vercel&logoColor=white)
 
 </div>
 
