@@ -25,30 +25,63 @@
 
 <div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=2c2b25&color=818cf8)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=2c2b25&color=818cf8)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=2c2b25&color=818cf8)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&labelColor=2c2b25&color=818cf8)
+<h3 style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; color: #a0a0a0;">📊 LANGUAGES</h3>
+![TypeScript](https://img.shields.io/badge/TypeScript-E?style=flat&logo=typescript&logoColor=white&labelColor=1a1a1a&color=404040)
+![JavaScript](https://img.shields.io/badge/JavaScript-E?style=flat&logo=javascript&logoColor=white&labelColor=1a1a1a&color=404040)
+![Python](https://img.shields.io/badge/Python-E?style=flat&logo=python&logoColor=white&labelColor=1a1a1a&color=404040)
+![HTML](https://img.shields.io/badge/HTML-E?style=flat&logo=html5&logoColor=white&labelColor=1a1a1a&color=404040)
+![CSS](https://img.shields.io/badge/CSS-E?style=flat&logo=css3&logoColor=white&labelColor=1a1a1a&color=404040)
+![SQL](https://img.shields.io/badge/SQL-E?style=flat&logo=mysql&logoColor=white&labelColor=1a1a1a&color=404040)
 
 </div>
 
 <div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=2c2b25&color=818cf8)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=2c2b25&color=818cf8)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white&labelColor=2c2b25&color=818cf8)
+<h3 style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; color: #a0a0a0;">🚀 FRAMEWORKS</h3>
+![Next.js](https://img.shields.io/badge/Next.js-E?style=flat&logo=nextdotjs&logoColor=white&labelColor=1a1a1a&color=404040)
+![React](https://img.shields.io/badge/React-E?style=flat&logo=react&logoColor=white&labelColor=1a1a1a&color=404040)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-E?style=flat&logo=tailwindcss&logoColor=white&labelColor=1a1a1a&color=404040)
+![Node.js](https://img.shields.io/badge/Node.js-E?style=flat&logo=nodedotjs&logoColor=white&labelColor=1a1a1a&color=404040)
 
 </div>
 
 <div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=2c2b25&color=818cf8)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=2c2b25&color=818cf8)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=2c2b25&color=818cf8)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2c2b25&color=818cf8)
+<h3 style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; color: #a0a0a0;">🎯 UI LIBRARIES & COMPONENTS</h3>
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-E?style=flat&logo=shadcnui&logoColor=white&labelColor=1a1a1a&color=404040)
+![Radix UI](https://img.shields.io/badge/Radix_UI-E?style=flat&logo=radixui&logoColor=white&labelColor=1a1a1a&color=404040)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-E?style=flat&logo=framer&logoColor=white&labelColor=1a1a1a&color=404040)
+![Recharts](https://img.shields.io/badge/Recharts-E?style=flat&logo=recharts&logoColor=white&labelColor=1a1a1a&color=404040)
+
+</div>
+
+<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
+
+<h3 style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; color: #a0a0a0;">🛠️ DEVELOPMENT TOOLS & BUILD</h3>
+![TypeScript](https://img.shields.io/badge/TypeScript-E?style=flat&logo=typescript&logoColor=white&labelColor=1a1a1a&color=404040)
+![ESLint](https://img.shields.io/badge/ESLint-E?style=flat&logo=eslint&logoColor=white&labelColor=1a1a1a&color=404040)
+![Prettier](https://img.shields.io/badge/Prettier-E?style=flat&logo=prettier&logoColor=white&labelColor=1a1a1a&color=404040)
+![Webpack](https://img.shields.io/badge/Webpack-E?style=flat&logo=webpack&logoColor=white&labelColor=1a1a1a&color=404040)
+![TanStack React Query](https://img.shields.io/badge/TanStack_React_Query-E?style=flat&logo=reactquery&logoColor=white&labelColor=1a1a1a&color=404040)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-E?style=flat&logo=reacthookform&logoColor=white&labelColor=1a1a1a&color=404040)
+
+</div>
+
+<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
+
+<h3 style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; color: #a0a0a0;">🗄️ DATABASE & BACKEND</h3>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E?style=flat&logo=postgresql&logoColor=white&labelColor=1a1a1a&color=404040)
+![Supabase](https://img.shields.io/badge/Supabase-E?style=flat&logo=supabase&logoColor=white&labelColor=1a1a1a&color=404040)
+![Redis](https://img.shields.io/badge/Redis-I?style=flat&logo=redis&logoColor=white&labelColor=1a1a1a&color=808080)
+
+</div>
+
+<div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
+
+<h3 style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; color: #a0a0a0;">🌐 SERVICES & HOSTING</h3>
+![Google APIs](https://img.shields.io/badge/Google_APIs-E?style=flat&logo=google&logoColor=white&labelColor=1a1a1a&color=404040)
+![Vercel Analytics](https://img.shields.io/badge/Vercel_Analytics-E?style=flat&logo=vercel&logoColor=white&labelColor=1a1a1a&color=404040)
+![Vercel](https://img.shields.io/badge/Vercel-E?style=flat&logo=vercel&logoColor=white&labelColor=1a1a1a&color=404040)
 
 </div>
 
@@ -79,9 +112,7 @@
 <div style="background: #2c2b25; padding: 20px; border-radius: 20px; margin: 20px 0; border: 1px solid #444441;">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=2c2b25&color=818cf8)](https://www.linkedin.com/in/farhanoic/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white&labelColor=2c2b25&color=818cf8)](https://x.com/farhanoic?s=21)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white&labelColor=2c2b25&color=818cf8)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=2c2b25&color=818cf8)](mailto:farhanazhar.tlp@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white&labelColor=2c2b25&color=818cf8)](https://www.farhanoic.me/)
 
 </div>
 
