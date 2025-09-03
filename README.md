@@ -26,62 +26,62 @@
 <div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
 
 <h3 style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; color: #a0a0a0;">📊 LANGUAGES</h3>
-![TypeScript](https://img.shields.io/badge/TypeScript-E?style=flat&logo=typescript&logoColor=white&labelColor=1a1a1a&color=404040)
-![JavaScript](https://img.shields.io/badge/JavaScript-E?style=flat&logo=javascript&logoColor=white&labelColor=1a1a1a&color=404040)
-![Python](https://img.shields.io/badge/Python-E?style=flat&logo=python&logoColor=white&labelColor=1a1a1a&color=404040)
-![HTML](https://img.shields.io/badge/HTML-E?style=flat&logo=html5&logoColor=white&labelColor=1a1a1a&color=404040)
-![CSS](https://img.shields.io/badge/CSS-E?style=flat&logo=css3&logoColor=white&labelColor=1a1a1a&color=404040)
-![SQL](https://img.shields.io/badge/SQL-E?style=flat&logo=mysql&logoColor=white&labelColor=1a1a1a&color=404040)
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-404040?style=flat&logo=typescript&logoColor=white&labelColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-404040?style=flat&logo=javascript&logoColor=white&labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python-Expert-404040?style=flat&logo=python&logoColor=white&labelColor=1a1a1a)
+![HTML](https://img.shields.io/badge/HTML-Expert-404040?style=flat&logo=html5&logoColor=white&labelColor=1a1a1a)
+![CSS](https://img.shields.io/badge/CSS-Expert-404040?style=flat&logo=css3&logoColor=white&labelColor=1a1a1a)
+![SQL](https://img.shields.io/badge/SQL-Expert-404040?style=flat&logo=mysql&logoColor=white&labelColor=1a1a1a)
 
 </div>
 
 <div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
 
 <h3 style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; color: #a0a0a0;">🚀 FRAMEWORKS</h3>
-![Next.js](https://img.shields.io/badge/Next.js-E?style=flat&logo=nextdotjs&logoColor=white&labelColor=1a1a1a&color=404040)
-![React](https://img.shields.io/badge/React-E?style=flat&logo=react&logoColor=white&labelColor=1a1a1a&color=404040)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-E?style=flat&logo=tailwindcss&logoColor=white&labelColor=1a1a1a&color=404040)
-![Node.js](https://img.shields.io/badge/Node.js-E?style=flat&logo=nodedotjs&logoColor=white&labelColor=1a1a1a&color=404040)
+![Next.js](https://img.shields.io/badge/Next.js-Expert-404040?style=flat&logo=nextdotjs&logoColor=white&labelColor=1a1a1a)
+![React](https://img.shields.io/badge/React-Expert-404040?style=flat&logo=react&logoColor=white&labelColor=1a1a1a)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Expert-404040?style=flat&logo=tailwindcss&logoColor=white&labelColor=1a1a1a)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-404040?style=flat&logo=nodedotjs&logoColor=white&labelColor=1a1a1a)
 
 </div>
 
 <div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
 
 <h3 style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; color: #a0a0a0;">🎯 UI LIBRARIES & COMPONENTS</h3>
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-E?style=flat&logo=shadcnui&logoColor=white&labelColor=1a1a1a&color=404040)
-![Radix UI](https://img.shields.io/badge/Radix_UI-E?style=flat&logo=radixui&logoColor=white&labelColor=1a1a1a&color=404040)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-E?style=flat&logo=framer&logoColor=white&labelColor=1a1a1a&color=404040)
-![Recharts](https://img.shields.io/badge/Recharts-E?style=flat&logo=recharts&logoColor=white&labelColor=1a1a1a&color=404040)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-Expert-404040?style=flat&logo=shadcnui&logoColor=white&labelColor=1a1a1a)
+![Radix UI](https://img.shields.io/badge/Radix_UI-Expert-404040?style=flat&logo=radixui&logoColor=white&labelColor=1a1a1a)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-Expert-404040?style=flat&logo=framer&logoColor=white&labelColor=1a1a1a)
+![Recharts](https://img.shields.io/badge/Recharts-Expert-404040?style=flat&logo=recharts&logoColor=white&labelColor=1a1a1a)
 
 </div>
 
 <div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
 
 <h3 style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; color: #a0a0a0;">🛠️ DEVELOPMENT TOOLS & BUILD</h3>
-![TypeScript](https://img.shields.io/badge/TypeScript-E?style=flat&logo=typescript&logoColor=white&labelColor=1a1a1a&color=404040)
-![ESLint](https://img.shields.io/badge/ESLint-E?style=flat&logo=eslint&logoColor=white&labelColor=1a1a1a&color=404040)
-![Prettier](https://img.shields.io/badge/Prettier-E?style=flat&logo=prettier&logoColor=white&labelColor=1a1a1a&color=404040)
-![Webpack](https://img.shields.io/badge/Webpack-E?style=flat&logo=webpack&logoColor=white&labelColor=1a1a1a&color=404040)
-![TanStack React Query](https://img.shields.io/badge/TanStack_React_Query-E?style=flat&logo=reactquery&logoColor=white&labelColor=1a1a1a&color=404040)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-E?style=flat&logo=reacthookform&logoColor=white&labelColor=1a1a1a&color=404040)
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-404040?style=flat&logo=typescript&logoColor=white&labelColor=1a1a1a)
+![ESLint](https://img.shields.io/badge/ESLint-Expert-404040?style=flat&logo=eslint&logoColor=white&labelColor=1a1a1a)
+![Prettier](https://img.shields.io/badge/Prettier-Expert-404040?style=flat&logo=prettier&logoColor=white&labelColor=1a1a1a)
+![Webpack](https://img.shields.io/badge/Webpack-Expert-404040?style=flat&logo=webpack&logoColor=white&labelColor=1a1a1a)
+![TanStack React Query](https://img.shields.io/badge/TanStack_React_Query-Expert-404040?style=flat&logo=reactquery&logoColor=white&labelColor=1a1a1a)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-Expert-404040?style=flat&logo=reacthookform&logoColor=white&labelColor=1a1a1a)
 
 </div>
 
 <div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
 
 <h3 style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; color: #a0a0a0;">🗄️ DATABASE & BACKEND</h3>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E?style=flat&logo=postgresql&logoColor=white&labelColor=1a1a1a&color=404040)
-![Supabase](https://img.shields.io/badge/Supabase-E?style=flat&logo=supabase&logoColor=white&labelColor=1a1a1a&color=404040)
-![Redis](https://img.shields.io/badge/Redis-I?style=flat&logo=redis&logoColor=white&labelColor=1a1a1a&color=808080)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-404040?style=flat&logo=postgresql&logoColor=white&labelColor=1a1a1a)
+![Supabase](https://img.shields.io/badge/Supabase-Expert-404040?style=flat&logo=supabase&logoColor=white&labelColor=1a1a1a)
+![Redis](https://img.shields.io/badge/Redis-Intermediate-808080?style=flat&logo=redis&logoColor=white&labelColor=1a1a1a)
 
 </div>
 
 <div style="background: #2c2b25; padding: 15px; border-radius: 15px; margin: 15px 0; border: 1px solid #444441;">
 
 <h3 style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; color: #a0a0a0;">🌐 SERVICES & HOSTING</h3>
-![Google APIs](https://img.shields.io/badge/Google_APIs-E?style=flat&logo=google&logoColor=white&labelColor=1a1a1a&color=404040)
-![Vercel Analytics](https://img.shields.io/badge/Vercel_Analytics-E?style=flat&logo=vercel&logoColor=white&labelColor=1a1a1a&color=404040)
-![Vercel](https://img.shields.io/badge/Vercel-E?style=flat&logo=vercel&logoColor=white&labelColor=1a1a1a&color=404040)
+![Google APIs](https://img.shields.io/badge/Google_APIs-Expert-404040?style=flat&logo=google&logoColor=white&labelColor=1a1a1a)
+![Vercel Analytics](https://img.shields.io/badge/Vercel_Analytics-Expert-404040?style=flat&logo=vercel&logoColor=white&labelColor=1a1a1a)
+![Vercel](https://img.shields.io/badge/Vercel-Expert-404040?style=flat&logo=vercel&logoColor=white&labelColor=1a1a1a)
 
 </div>
 
